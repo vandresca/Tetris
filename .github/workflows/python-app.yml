@@ -22,4 +22,4 @@ jobs:
      with:
       python-version: "3.11"
    - name: Check if Python code compiles
-     run: python -c 'import Tetris
+     run: python -c 'import Tetris'
